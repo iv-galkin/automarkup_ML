@@ -50,7 +50,7 @@
 
 ### Результат 1 🖼️
 
-![Result 1](docs/results/vis_354_652724.jpg)
+![Result 1](docs/results/vis_577_820398.jpg)
 
 <details>
 <summary>Показать JSON для Результата 1</summary>
@@ -239,100 +239,6 @@
 ### Результат 3 🖼️
 
 ![Result 2](docs/results/vis_613_838783.jpg)
-
-<details>
-<summary>Показать JSON для Результата 3</summary>
-    
-```json
-{
-    "image_name": "613_838783.jpg",
-    "description": "a robot arm is holding a cup of coffee on a table\nObject relations:\nAbove relations: cup_1 is above table_1\nBelow relations: cup_1 is below coffee_1, table_1 is below coffee_1\nLeft of relations: table_1 is left of robot_1\nRight of relations: robot_1 is right of robot arm_1, table_1 is right of robot arm_1\nAbove-left of relations: cup_1 is above-left of robot_1\nAbove-right of relations: cup_1 is above-right of robot arm_1\nBelow-left of relations: robot arm_1 is below-left of coffee_1\nBelow-right of relations: robot_1 is below-right of coffee_1",
-    "objects": [
-      {
-        "name": "cup_1",
-        "color": "brown",
-        "size": "medium: 46x84 (area=3864)",
-        "description": "brown cup with a pen in it on a blue tablecloth"
-      },
-      {
-        "name": "table_1",
-        "color": "blue",
-        "size": "large: 573x390 (area=223470)",
-        "description": "blue table cloth with a white checkered table cloth"
-      },
-      {
-        "name": "robot_1",
-        "color": "blue",
-        "size": "large: 259x250 (area=64750)",
-        "description": "blue robot arm with a knife and a knife"
-      },
-      {
-        "name": "robot arm_1",
-        "color": "blue",
-        "size": "large: 251x256 (area=64256)",
-        "description": "blue robot arm on a table with a knife and fork"
-      },
-      {
-        "name": "coffee_1",
-        "color": "purple",
-        "size": "medium: 66x49 (area=3234)",
-        "description": "purple coffee machine in the kitchen"
-      }
-    ],
-    "2d_bbox": [
-      {
-        "object": "cup_1",
-        "bbox": [
-          327,
-          167,
-          373,
-          251
-        ]
-      },
-      {
-        "object": "table_1",
-        "bbox": [
-          62,
-          89,
-          635,
-          479
-        ]
-      },
-      {
-        "object": "robot_1",
-        "bbox": [
-          377,
-          222,
-          636,
-          472
-        ]
-      },
-      {
-        "object": "robot arm_1",
-        "bbox": [
-          0,
-          218,
-          251,
-          474
-        ]
-      },
-      {
-        "object": "coffee_1",
-        "bbox": [
-          312,
-          0,
-          378,
-          49
-        ]
-      }
-    ]
-  }
-```
-</details>
-
-### Результат 3 🖼️
-
-![Result 3](docs/results/vis_613_838783.jpg)
 
 <details>
 <summary>Показать JSON для Результата 3</summary>
